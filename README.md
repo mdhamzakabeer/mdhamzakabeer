@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hamza Kabeer</h1>
-<h3 align="center">🚀 Frontend Developer | JavaScript Wizard | Animation Enthusiast</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/30/rocket--v1.png" height="20" style="margin-bottom: 5px;" /> 
+  Software Engineer | AI Associate Engineer | Frontend Developer
+</h3>
+
+<p align="center"><strong>🚀 Turning complex ideas into stunning, scalable web experiences.</strong></p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7C80F&center=true&vCenter=true&width=435&lines=React+%7C+Tailwind+%7C+Firebase;UI%2FUX+Focused+Frontend+Engineer;Passionate+about+Design+and+Code" alt="Typing SVG" />
+  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" width="420" alt="dev-gif" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhamzakabeer&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://komarev.com/ghpvc/?username=mdhamzakabeer&label=Profile%20Views&color=blue&style=flat-square" alt="Hamza's Profile Views" />
 </p>
 
 ---
@@ -29,12 +33,16 @@
 ### 🧠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,figma,firebase,git,github,python,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,netlify,figma,firebase,git,github,vscode,vercel" />
+  <br/>
+  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animate.css-Elegant%20CSS-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Font Awesome-Icons-black?style=for-the-badge&logo=fontawesome" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhamzakabeer&show_icons=true&theme=tokyonight" />
@@ -54,34 +62,31 @@
 
 ---
 
-### 🎯 Currently Working On
+### 🚧 Currently Building
 
-- 🔭 **GrowQuiz Web App**
-- ✨ Learning Framer Motion & GSAP
-- 🧩 Building reusable React components
-- 📱 Designing responsive UI/UX layouts
+- 🔭 GrowQuiz Full-stack App
+- 🎨 UI/UX powered React Components
+- 📦 Custom Animated Components with GSAP
+- 🤖 Exploring AI-based JS integrations
 
 ---
 
-### 💡 Fun Dev GIF
+### 🎬 Fun Dev Moment
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o7aD4V2C4nAEk6Ure/giphy.gif" width="400" />
 </p>
 
 ---
 
-### 🎉 Let’s Build Something Cool Together!
-
-> 💬 "Coding is not just about syntax, it's about creating magic out of logic."
+> ⚡ *"Great code is poetry in motion. I don’t just write components — I craft experiences."*
 
 ---
 
-#### ✅ Pro Tips:
-- ✅ Replace WhatsApp number in the link
-- ✅ Keep adding project GIFs or screenshots as you grow
-- ✅ Add pinned projects with markdown or repo links below if needed
+### ✅ Final Notes
+
+- Keep updating with pinned repos
+- Replace WhatsApp number if needed
+- Let me know if you want a **live project card**, **blog integration**, or **auto-refresh stats**
 
 ---
-
-**Want me to add live project cards or update it later with more sections?**

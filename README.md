@@ -1,76 +1,87 @@
 <h1 align="center">Hi 👋, I'm Hamza Kabeer</h1>
-<h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | UI/UX Learner</h3>
+<h3 align="center">🚀 Frontend Developer | JavaScript Wizard | Animation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhamzakabeer&label=Profile%20views&color=0e75b6&style=flat" alt="mdhamzakabeer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7C80F&center=true&vCenter=true&width=435&lines=React+%7C+Tailwind+%7C+Firebase;UI%2FUX+Focused+Frontend+Engineer;Passionate+about+Design+and+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhamzakabeer&theme=algolia&margin-w=10" />
+  <img src="https://komarev.com/ghpvc/?username=mdhamzakabeer&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/mdhamzakabeer" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhamzakabeer&show_icons=true&theme=radical" alt="stats" />
+  <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.facebook.com/mdhamzakabeer" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
+  <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/Chat on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,figma,firebase,git,github,python,vscode,vercel" />
+</p>
+
+---
+
+### 🔥 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhamzakabeer&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhamzakabeer&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhamzakabeer&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mdhamzakabeer&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdhamzakabeer&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdhamzakabeer&theme=monokai&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 📌 Currently Learning
-- React & Firebase Authentication
-- UI/UX Design & Animation
-- Projects like GrowQuiz & more...
+### 🎯 Currently Working On
+
+- 🔭 **GrowQuiz Web App**
+- ✨ Learning Framer Motion & GSAP
+- 🧩 Building reusable React components
+- 📱 Designing responsive UI/UX layouts
 
 ---
 
-🔄 **Keep exploring, keep building!**
+### 💡 Fun Dev GIF
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="400" />
+</p>
 
 ---
 
-### ⚠️ Notes:
-- Replace the **WhatsApp link** with your real number: `https://wa.me/92xxxxxxxxxx`
-- You can update **project names**, **goals**, and even add project cards later.
+### 🎉 Let’s Build Something Cool Together!
+
+> 💬 "Coding is not just about syntax, it's about creating magic out of logic."
 
 ---
 
-Would you also like me to generate animated badges for your projects (GrowQuiz, etc.) with links?
+#### ✅ Pro Tips:
+- ✅ Replace WhatsApp number in the link
+- ✅ Keep adding project GIFs or screenshots as you grow
+- ✅ Add pinned projects with markdown or repo links below if needed
+
+---
+
+**Want me to add live project cards or update it later with more sections?**

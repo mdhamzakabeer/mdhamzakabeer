@@ -32,9 +32,17 @@
 ## 🎓 Certificate
 
 Click on the card below to view my **Associate Engineer Certificate**:
+<br>
 
 <!-- Certificate Preview Card -->
-[![Certificate Preview](https://via.placeholder.com/300x200.png?text=Click+to+View+Certificate)](https://media-hosting.imagekit.io/d95fb33c74364aba/IMG_20250510_234259_668.jpg?Expires=1841513401&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NBjhkkOPwcTi2iYLxo9oS0Nh~c8K-WzYIWyCzFS3YIKem~u6cPwQkY1UxrzN4N7YtSVpvk0uSik3jpw1~sv9NJCCYeTeP-jV4SZQXbpJ8~lHVw4SaCzVWq71-Fs1mdvc1NLtOnfs-ztvTS68jDxLB8G3oN0Fyf1HTtG-PC3frlzgS~-GTcZUhRxBGhGdzlxZpnXDVPJ78zanEEOhxiSszBl37kRj8VZ8cCQQC4hJ3fjbDvFFAvYX-ufKhuu~7ulknwyFrMtiMgU9BxLa7pXbgWfQ~tos17xlWrpyYDoCXvyAJ~ofF6XG5LChscZNJ3crQlCYzlpNQ6LxSfcck0FeVQ__)
+<p align="left">
+  <a href="https://media-hosting.imagekit.io/d95fb33c74364aba/IMG_20250510_234259_668.jpg?Expires=1841513401&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NBjhkkOPwcTi2iYLxo9oS0Nh~c8K-WzYIWyCzFS3YIKem~u6cPwQkY1UxrzN4N7YtSVpvk0uSik3jpw1~sv9NJCCYeTeP-jV4SZQXbpJ8~lHVw4SaCzVWq71-Fs1mdvc1NLtOnfs-ztvTS68jDxLB8G3oN0Fyf1HTtG-PC3frlzgS~-GTcZUhRxBGhGdzlxZpnXDVPJ78zanEEOhxiSszBl37kRj8VZ8cCQQC4hJ3fjbDvFFAvYX-ufKhuu~7ulknwyFrMtiMgU9BxLa7pXbgWfQ~tos17xlWrpyYDoCXvyAJ~ofF6XG5LChscZNJ3crQlCYzlpNQ6LxSfcck0FeVQ__">
+    <img src="https://img.icons8.com/emoji/48/scroll-emoji.png" alt="Certificate Icon"/>
+    <br/>
+    <strong>View Certificate</strong>
+  </a>
+</p>
+
 
 ---
 
@@ -65,27 +73,27 @@ Click on the card below to view my **Associate Engineer Certificate**:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank">
+      <a href="https://www.linkedin.com/in/muhammad-hamza-kabeer-9b4740246/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/mdhamzakabeer" target="_blank">
+      <a href="https://www.facebook.com/hamza.kabeer.1000" target="_blank">
         <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank">
+      <a href="https://www.instagram.com/haks.shop/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://wa.me/923001234567" target="_blank">
+      <a href="https://wa.me/923401952337" target="_blank">
         <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp"/>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:mdhamzakabeer@gmail.com" target="_blank">
+      <a href="mailto:hamzakabeer021@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Gmail"/>
       </a>
     </td>

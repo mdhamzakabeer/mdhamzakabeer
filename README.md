@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=I'm+a+Software+Engineer+and+Associate+Engineer%2C+Frontend+Developer+Full+Stack+Developer" alt="Typing SVG" />
 </h3>
 
-
-
-
 <br/>
 
 <p align="center">
@@ -23,11 +20,45 @@
 </p>
 
 ---
+### 🧑‍💻 About Me
 - 🔭 I’m currently working on **Creative JavaScript & Web Projects**
 - 🌱 I’m currently learning **Advanced JavaScript, APIs & UI/UX**
 - 💬 Ask me about **JavaScript, HTML, CSS, Tailwind**
 - 👨‍💻 All of my projects are available at [quizapp](https://mdhamzakabeer.github.io/quizapp/)
 - 📫 How to reach me: **hamzakabeer021@gmail.com**
+
+
+---
+### 📜 My Certifications
+
+<p align="center">
+  <a href="YOUR_CERTIFICATE_URL" target="_blank">
+    <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Associate Engineer Certificate" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_CERTIFICATE_URL" target="_blank">
+    <button style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; font-size: 16px;">View Certificate</button>
+  </a>
+</p>
+
+---
+### 🧠 My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,netlify,figma,firebase,git,github,vscode,vercel" />
+  <br/><br/>
+
+  <!-- GSAP Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+
+  <!-- Animate.css Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/Animate.css-CSS%20Animations-blueviolet?style=for-the-badge" alt="Animate.css" />
+
+  <!-- Font Awesome Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/Font%20Awesome-Icons-black?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
+</p>
 
 ---
 
@@ -68,34 +99,20 @@
   </tr>
 </table>
 
-
----
-### 🧠 My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,netlify,figma,firebase,git,github,vscode,vercel" />
-  <br/><br/>
-
-  <!-- GSAP Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-
-  <!-- Animate.css Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/Animate.css-CSS%20Animations-blueviolet?style=for-the-badge" alt="Animate.css" />
-
-  <!-- Font Awesome Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/Font%20Awesome-Icons-black?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
-</p>
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
+<p align="center" style="padding-top: 20px;">
+<br>
+<br>
   <img src="https://github-readme-stats.vercel.app/api?username=mdhamzakabeer&show_icons=true&theme=tokyonight" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhamzakabeer&layout=compact&theme=tokyonight" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=mdhamzakabeer&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -119,19 +136,10 @@
 ### 🎬 Fun Dev Moment
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4V2C4nAEk6Ure/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400" alt="JavaScript Developer GIF" />
 </p>
-
 ---
 
 > ⚡ *"Great code is poetry in motion. I don’t just write components — I craft experiences."*
-
----
-
-### ✅ Final Notes
-
-- Keep updating with pinned repos
-- Replace WhatsApp number if needed
-- Let me know if you want a **live project card**, **blog integration**, or **auto-refresh stats**
 
 ---

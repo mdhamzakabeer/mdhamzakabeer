@@ -22,11 +22,26 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.facebook.com/mdhamzakabeer" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/Chat on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.facebook.com/hamza.kabeer.1000" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://wa.me/923401952337" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+  </a>
+  <a href="mailto:hamzakabeer021@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="mailto:" target="_blank">
+    <img src="https://skillicons.dev/icons?i=outlook" height="40" />
+  </a>
 </p>
+
 
 ---
 

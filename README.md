@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hamza Kabeer</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza Kabeer</h1>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/30/rocket--v1.png" height="20" style="margin-bottom: 5px;" /> 
-  Software Engineer | AI Associate Engineer | Frontend Developer
+<!--   <img src="https://img.icons8.com/ios-filled/30/rocket--v1.png" height="20" style="margin-bottom: 5px;" />  -->
+  Software Engineer | Associate Engineer | Frontend Developer | Full Stack Developer
 </h3>
 
-<p align="center"><strong>🚀 Turning complex ideas into stunning, scalable web experiences.</strong></p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=I'm+a+Software+Engineer+and+Associate+Engineer%2C+Frontend+Developer+Full+Stack+Developer" alt="Typing SVG" />
+</h3>
+
+
+
 
 <br/>
 
@@ -16,6 +21,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdhamzakabeer&label=Profile%20Views&color=blue&style=flat-square" alt="Hamza's Profile Views" />
 </p>
+
+---
+- 🔭 I’m currently working on **Creative JavaScript & Web Projects**
+- 🌱 I’m currently learning **Advanced JavaScript, APIs & UI/UX**
+- 💬 Ask me about **JavaScript, HTML, CSS, Tailwind**
+- 👨‍💻 All of my projects are available at [quizapp](https://mdhamzakabeer.github.io/quizapp/)
+- 📫 How to reach me: **hamzakabeer021@gmail.com**
 
 ---
 

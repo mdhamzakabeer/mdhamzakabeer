@@ -29,19 +29,17 @@
 
 
 ---
-### 📜 My Certifications
+## 🎓 Certificate
 
-<p align="center">
-  <a href="YOUR_CERTIFICATE_URL" target="_blank">
-    <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Associate Engineer Certificate" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-  </a>
-</p>
+Click on the card below to view my **Associate Engineer Certificate**:
 
-<p align="center">
-  <a href="YOUR_CERTIFICATE_URL" target="_blank">
-    <button style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; font-size: 16px;">View Certificate</button>
-  </a>
-</p>
+<!-- Certificate Preview Card -->
+[![Certificate Preview](https://via.placeholder.com/300x200.png?text=Click+to+View+Certificate)](https://media-hosting.imagekit.io/d95fb33c74364aba/IMG_20250510_234259_668.jpg?Expires=1841513401&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NBjhkkOPwcTi2iYLxo9oS0Nh~c8K-WzYIWyCzFS3YIKem~u6cPwQkY1UxrzN4N7YtSVpvk0uSik3jpw1~sv9NJCCYeTeP-jV4SZQXbpJ8~lHVw4SaCzVWq71-Fs1mdvc1NLtOnfs-ztvTS68jDxLB8G3oN0Fyf1HTtG-PC3frlzgS~-GTcZUhRxBGhGdzlxZpnXDVPJ78zanEEOhxiSszBl37kRj8VZ8cCQQC4hJ3fjbDvFFAvYX-ufKhuu~7ulknwyFrMtiMgU9BxLa7pXbgWfQ~tos17xlWrpyYDoCXvyAJ~ofF6XG5LChscZNJ3crQlCYzlpNQ6LxSfcck0FeVQ__)
+
+---
+
+> This is my certificate of Associate Engineer. Click the image above to view the full-sized version.
+
 
 ---
 ### 🧠 My Tech Toolbox

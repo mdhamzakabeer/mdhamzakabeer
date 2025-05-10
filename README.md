@@ -21,40 +21,58 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.facebook.com/hamza.kabeer.1000" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
-  </a>
-  <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://wa.me/923401952337" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
-  </a>
-  <a href="mailto:hamzakabeer021@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="mailto:" target="_blank">
-    <img src="https://skillicons.dev/icons?i=outlook" height="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mdhamzakabeer/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/mdhamzakabeer" target="_blank">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mdhamzakabeer/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/923001234567" target="_blank">
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mdhamzakabeer@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mdhamzakabeer@outlook.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" height="40" alt="Outlook"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
-
 ### 🧠 My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,netlify,figma,firebase,git,github,vscode,vercel" />
-  <br/>
-  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animate.css-Elegant%20CSS-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Font Awesome-Icons-black?style=for-the-badge&logo=fontawesome" />
-</p>
+  <br/><br/>
 
+  <!-- GSAP Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+
+  <!-- Animate.css Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/Animate.css-CSS%20Animations-blueviolet?style=for-the-badge" alt="Animate.css" />
+
+  <!-- Font Awesome Badge (Latest Version) -->
+  <img src="https://img.shields.io/badge/Font%20Awesome-Icons-black?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
+</p>
 ---
 
 ### 📊 GitHub Stats & Activity

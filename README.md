@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Kabeer</h1>
 
-<h3 align="center">
-<!--   <img src="https://img.icons8.com/ios-filled/30/rocket--v1.png" height="20" style="margin-bottom: 5px;" />  -->
-  Software Engineer | Associate Engineer | Frontend Developer | Full Stack Developer
-</h3>
+<h2 align="center">
+  Passionate About Crafting Solutions<br/>
+  <span style="color:#FF5722;">Software Engineer</span> | <span style="color:#FF5722;">Frontend Developer</span> | <span style="color:#FF5722;">Full Stack Developer</span>
+</h2>
+
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=I'm+a+Software+Engineer+and+Associate+Engineer%2C+Frontend+Developer+Full+Stack+Developer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=I'm+a+Software+Engineer;Associate+Engineer;Frontend+Developer;Full+Stack+Developer" 
+    alt="Typing SVG" />
 </h3>
 
 <br/>
@@ -128,6 +131,12 @@ Click on the card below to view my **Associate Engineer Certificate**:
   <img src="https://github-profile-trophy.vercel.app/?username=mdhamzakabeer&theme=monokai&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 
+
+### 🟩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhamzakabeer&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 ---
 
 ### 🚧 Currently Building

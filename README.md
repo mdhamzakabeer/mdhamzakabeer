@@ -56,17 +56,8 @@ Click on the card below to view my **Associate Engineer Certificate**:
 ### 🧠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,netlify,figma,firebase,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,,tailwind,bootstrap,netlify,figma,firebase,git," />
   <br/><br/>
-
-  <!-- GSAP Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-
-  <!-- Animate.css Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/Animate.css-CSS%20Animations-blueviolet?style=for-the-badge" alt="Animate.css" />
-
-  <!-- Font Awesome Badge (Latest Version) -->
-  <img src="https://img.shields.io/badge/Font%20Awesome-Icons-black?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
 </p>
 
 ---

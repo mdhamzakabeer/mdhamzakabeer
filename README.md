@@ -56,7 +56,7 @@ Click on the card below to view my **Associate Engineer Certificate**:
 ### 🧠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,,tailwind,bootstrap,netlify,figma,firebase,git," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,netlify,figma,firebase,git," />
   <br/><br/>
 </p>
 

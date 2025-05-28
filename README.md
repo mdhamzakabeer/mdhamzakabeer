@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=I'm+a+Software+Engineer;Associate+Engineer;Frontend+Developer;Full+Stack+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=I'm+a+Web-Developerr;Associate+Engineer;Frontend+Developer;Full+Stack+Developer" 
     alt="Typing SVG" />
 </h3>
 
